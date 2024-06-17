@@ -14,7 +14,7 @@ const courses = [
   },
   {
     imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg",
+      "https://tse1.mm.bing.net/th?id=OIP.bWgVI0kz9QeylCDg2qcpbwHaEK&pid=Api&P=0&h=180",
     title: "Data Science",
     description: "Dive into data analysis, machine learning, and more.",
   },
@@ -36,14 +36,14 @@ const courses = [
   },
   {
     imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      "https://tse2.mm.bing.net/th?id=OIP.0UcpCX47mTRsYMQpTmn3yAHaEd&pid=Api&P=0&h=180",
     title: "Security Operations",
     description: "Learn the essentials of managing security operations.",
   },
   {
-    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
-    title: "Security Operations",
-    description: "Learn the essentials of managing security operations.",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.WI_fTNjbE5sC9KTzdpq14wAAAA&pid=Api&P=0&h=180",
+    title: "Interview Preparation",
+    description: "Prepare for job interviews with confidence and ace them.",
   },
   {
     imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
@@ -51,11 +51,9 @@ const courses = [
     description: "Understand how to secure web and mobile applications.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
-    title: "Security Management",
-    description:
-      "Learn about security management frameworks and best practices.",
+    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp",
+    title: "Frontend Development",
+    description: "Learn HTML, CSS, JavaScript, and React.",
   },
   {
     imgSrc: "https://tse3.mm.bing.net/th?id=OIP.aKM_s7B-L2f5eTk5U9SfhQHaFj&pid=Api&P=0&h=180",

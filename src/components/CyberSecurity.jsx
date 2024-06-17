@@ -33,7 +33,7 @@ const cyberSecurityCourses = [
     description: "Learn the essentials of managing security operations.",
   },
   {
-    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
+    imgSrc: "https://tse4.mm.bing.net/th?id=OIP.gXeve-uTc1WF1v6pfiAg2wAAAA&pid=Api&P=0&h=180",
     title: "Application Security",
     description: "Understand how to secure web and mobile applications.",
   },
