@@ -3,7 +3,7 @@ import React from 'react';
 
 const cyberSecurityCourses = [
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.Lk5BEqsDY_l96IJn1SW0ZgHaD4&pid=Api&P=0&h=180",
     title: "Introduction to Cyber Security",
     description: "Understand the fundamentals of protecting online assets.",
   },
@@ -18,7 +18,7 @@ const cyberSecurityCourses = [
     description: "Master the skills of ethical hacking and penetration testing.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+    imgSrc: "https://tse2.mm.bing.net/th?id=OIP.duF1PrbDKhPMz0l-tuv9AwHaHa&pid=Api&P=0&h=180",
     title: "Cryptography",
     description: "Learn about encryption techniques and secure communication.",
   },
@@ -28,17 +28,17 @@ const cyberSecurityCourses = [
     description: "Understand how to respond to and mitigate cyber incidents.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
     title: "Security Operations",
     description: "Learn the essentials of managing security operations.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png",
+    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
     title: "Application Security",
     description: "Understand how to secure web and mobile applications.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png",
+    imgSrc: "https://tse2.mm.bing.net/th?id=OIP.0UcpCX47mTRsYMQpTmn3yAHaEd&pid=Api&P=0&h=180",
     title: "Security Management",
     description: "Learn about security management frameworks and best practices.",
   },

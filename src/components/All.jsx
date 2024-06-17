@@ -3,15 +3,14 @@ import React from "react";
 const courses = [
   {
     imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      "https://tse2.mm.bing.net/th?id=OIP.FUt7aS32TroMpZldPuHHiwHaEa&pid=Api&P=0&h=180",
     title: "Full Stack Development",
     description: "Learn to build complete web applications from scratch.",
   },
   {
-    imgSrc:
-      "https://tse3.mm.bing.net/th?id=OIP.BFA01tfiLAWxZ3PpQy_NBgHaHa&pid=Api&P=0&h=180",
-    title: "Time Management",
-    description: "Master time management techniques to increase productivity.",
+    imgSrc: "https://tse2.mm.bing.net/th?id=OIP.91MYfGSrNOrHXmgvOz5ewAHaHX&pid=Api&P=0&h=180",
+    title: "Data Analysis",
+    description: "Learn to analyze data and extract insights.",
   },
   {
     imgSrc:
@@ -21,19 +20,17 @@ const courses = [
   },
   {
     imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      "https://tse3.mm.bing.net/th?id=OIP.Lk5BEqsDY_l96IJn1SW0ZgHaD4&pid=Api&P=0&h=180",
     title: "Cyber Security",
     description: "Understand the fundamentals of protecting online assets.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-2048x1072.png",
+    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.bWgVI0kz9QeylCDg2qcpbwHaEK&pid=Api&P=0&h=180",
     title: "Deep Learning",
     description: "Explore deep learning techniques and neural networks.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+    imgSrc: "https://tse2.mm.bing.net/th?id=OIP.qfvMOdELh7C1RQ-__YaxvgHaEK&pid=Api&P=0&h=180",
     title: "Big Data",
     description: "Learn to handle and analyze large datasets.",
   },
@@ -44,15 +41,12 @@ const courses = [
     description: "Learn the essentials of managing security operations.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
-    title: "Machine Learning",
-    description:
-      "Understand machine learning algorithms and their applications.",
+    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
+    title: "Security Operations",
+    description: "Learn the essentials of managing security operations.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png",
+    imgSrc: "https://tse1.mm.bing.net/th?id=OIP.X3lzZFPBQu8e6SvOu-2nPwHaEK&pid=Api&P=0&h=180",
     title: "Application Security",
     description: "Understand how to secure web and mobile applications.",
   },
@@ -64,27 +58,24 @@ const courses = [
       "Learn about security management frameworks and best practices.",
   },
   {
-    imgSrc:
-      "https://tse1.mm.bing.net/th?id=OIP.MQ8bBeILW-hWaKmdFe6xrQHaEP&pid=Api&P=0&h=180",
-    title: "Career Guidance",
-    description: "Get insights on how to build a successful career.",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.aKM_s7B-L2f5eTk5U9SfhQHaFj&pid=Api&P=0&h=180",
+    title: "Personal Branding",
+    description: "Learn to build and maintain a strong personal brand.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
-    title: "Ethical Hacking",
-    description: "Master the skills of ethical hacking and penetration testing.",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.BFA01tfiLAWxZ3PpQy_NBgHaHa&pid=Api&P=0&h=180",
+    title: "Time Management",
+    description: "Master time management techniques to increase productivity.",
+  }, 
+  {
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.QyJagH6OYNVD7BfjPlYcxAHaE8&pid=Api&P=0&h=180",
+    title: "Backend Development",
+    description: "Understand server-side programming with Node.js and Express.",
   },
   {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+    imgSrc: "https://tse4.mm.bing.net/th?id=OIP.4J5CpLrVh902O_xeukz5OQHaD5&pid=Api&P=0&h=180",
     title: "Database Management",
     description: "Master SQL and NoSQL databases.",
-  },
-  {
-    imgSrc:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
-    title: "React",
-    description: "Learn about CI/CD, Docker, and cloud deployment.",
   },
   {
     imgSrc: "https://tse3.mm.bing.net/th?id=OIP.WI_fTNjbE5sC9KTzdpq14wAAAA&pid=Api&P=0&h=180",
