@@ -2,7 +2,7 @@ import React from 'react';
 
 const fullStackCourses = [
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    imgSrc: "https://tse2.mm.bing.net/th?id=OIP.FUt7aS32TroMpZldPuHHiwHaEa&pid=Api&P=0&h=180",
     title: "Introduction to Full Stack Development",
     description: "Get started with full stack development.",
   },
@@ -12,18 +12,18 @@ const fullStackCourses = [
     description: "Learn HTML, CSS, JavaScript, and React.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.QyJagH6OYNVD7BfjPlYcxAHaE8&pid=Api&P=0&h=180",
     title: "Backend Development",
     description: "Understand server-side programming with Node.js and Express.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+    imgSrc: "https://tse4.mm.bing.net/th?id=OIP.4J5CpLrVh902O_xeukz5OQHaD5&pid=Api&P=0&h=180",
     title: "Database Management",
     description: "Master SQL and NoSQL databases.",
   },
   {
-    imgSrc: "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
-    title: "React",
+    imgSrc: "https://tse3.mm.bing.net/th?id=OIP.ptYW1ynNsJkWCABRwpNQ9AHaEK&pid=Api&P=0&h=180",
+    title: "History of FullStack Development",
     description: "Learn about CI/CD, Docker, and cloud deployment.",
   },
   {
