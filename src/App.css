@@ -1,0 +1,56 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-color: #f8f9fa;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.navbar-navigation {
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: black;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-link:hover {
+  background-color: lightgreen;
+  border-radius: 0.25rem;
+}
+
+.navbar-link.active {
+  font-weight: bold;
+  background-color: rgb(144, 242, 144);
+}
+
+.content {
+  padding: 2rem;
+}
+.course-img {
+  height: 200px;  
+  object-fit: cover;  
+  width: 100%;  
+}
